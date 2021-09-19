@@ -1,4 +1,4 @@
-baseurl: https://username.github.io
+baseurl: https://goethe-erc-team.netlify.app
 DefaultContentLanguage: en
 title: Goethe University - ERC Team
 theme: beautifulhugo
@@ -79,3 +79,8 @@ menu:
     - name: Tags
       url: tags
       weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

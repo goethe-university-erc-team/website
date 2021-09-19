@@ -1,4 +1,4 @@
-![](/img/logo-erc-goethe.png)
+![](/static/img/logo-erc-goethe.png)
 
 # Goethe Universty - ERC Team
 

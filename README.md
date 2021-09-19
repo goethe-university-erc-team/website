@@ -1,4 +1,4 @@
-![](./themes/beautifulhugo/static/img/logo-erc-goethe.png)
+![](/Users/karlo/GitHub/website/themes/beautifulhugo/static/img/logo-erc-goethe.png)
 
 # Goethe Universty - ERC Team
 

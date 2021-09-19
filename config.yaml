@@ -8,7 +8,7 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 Params:
-  comments: yes
+  comments: no
   commit: no
   dateFormat: January 2, 2006
   delayDisqus: yes

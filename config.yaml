@@ -12,33 +12,34 @@ Params:
   commit: no
   dateFormat: January 2, 2006
   delayDisqus: yes
-  favicon: img/favicon.ico
+  favicon: img/favicon-cookie.ico
   logo: img/logo-cookie.jpeg
   mainSections:
     - post
     - posts
   readingTime: yes
-  rss: yes
+  rss: no
   showRelatedPosts: yes
   socialShare: yes
   subtitle: Economic Consequences of Restrictions on the Usage of Cookies
   useHLJS: yes
   wordCount: no
 Author:
+  name: ERC Advanced Investigator Grant
+  email: goethe-university-erc-team@protonmail.com
+  github: https://github.com/goethe-university-erc-team
+  website: https://goethe-erc-team.netlify.app
   # 500px: username
   # bandcamp: username
   # bitbucket: username
   # codepen: username
-  email: goethe-university-erc-team@protonmail.com
   # facebook: username
-  github: username
   # gitlab: username
   # instagram: username
   # itchio: username
   # kaggle: username
   # linkedin: username
   # mastodon: url
-  name: ERC Advanced Investigator Grant
   # paypal: username
   # reddit: username
   # slack: username
@@ -49,7 +50,6 @@ Author:
   # telegram: username
   # twitter: username
   # vk: username
-  website: yourwebsite.com
   # weibo: username
   # xing: username
   # youtube: user/username

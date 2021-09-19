@@ -55,30 +55,63 @@ Author:
   # youtube: user/username
 menu:
   main:
-    - name: Blog
+  # 1st tab
+    - identifier: research
+      name: Research
       url: ''
       weight: 1
-    - name: About
-      url: page/about/
-      weight: 3
-    - identifier: samples
-      name: Samples
-      weight: 2
-    - name: Big Image Sample
-      parent: samples
-      url: post/2017-03-07-bigimg-sample
+  # 1st sub-tab of tab 1
+    - name: ERC Grant
+      parent: research
+      url: page/erc-grant
       weight: 1
-    - name: Math Sample
-      parent: samples
-      url: post/2017-03-05-math-sample
+  # 2nd sub-tab of tab 1
+    - name: Projects
+      parent: research
+      url: page/research-projects
       weight: 2
-    - name: Code Sample
-      parent: samples
-      url: post/2016-03-08-code-sample
+  # 3rd sub-tab of tab 1
+    - name: Upcoming Talks
+      parent: research
+      url: page/upcoming-talks
       weight: 3
-    - name: Tags
-      url: tags
-      weight: 3
+  # 4th sub-tab of tab 1
+    - name: Past Talks
+      parent: research
+      url: page/past-talks
+      weight: 4
+  # 2nd tab
+    - name: Team
+      url: page/team
+      weight: 2
+  # 3rd tab
+    - name: Blog
+      url: ''
+      weight: 5
+    # - name: Blog
+    #   url: ''
+    #   weight: 1
+    # - name: About Us
+    #   url: page/about/
+    #   weight: 3
+    # - identifier: samples
+    #   name: Samples
+    #   weight: 2
+    # - name: Big Image Sample
+    #   parent: samples
+    #   url: post/2017-03-07-bigimg-sample
+    #   weight: 1
+    # - name: Math Sample
+    #   parent: samples
+    #   url: post/2017-03-05-math-sample
+    #   weight: 2
+    # - name: Code Sample
+    #   parent: samples
+    #   url: post/2016-03-08-code-sample
+    #   weight: 3
+    # - name: Tags
+    #   url: tags
+    #   weight: 3
 
 markup:
   goldmark:

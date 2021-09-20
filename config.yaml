@@ -28,7 +28,7 @@ Params:
   wordCount: no
   hideAuthor: yes
 Author:
-  name: ERC Team
+  # name: ERC Team
   email: goethe-university-erc-team@protonmail.com
   github: https://github.com/goethe-university-erc-team
   website: https://goethe-erc-team.netlify.app

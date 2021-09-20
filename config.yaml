@@ -18,8 +18,8 @@ Params:
   favicon: img/favicon-cookie.ico
   logo: img/logo-cookie.jpeg
   mainSections:
-    - post
-    - posts
+    # - post
+    # - posts
   readingTime: yes
   rss: no
   showRelatedPosts: yes

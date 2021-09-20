@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+socialShare: no
 ---
 
 Here is a list of our current research projects:

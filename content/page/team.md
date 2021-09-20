@@ -1,6 +1,7 @@
 ---
 comments: false
 title: Team
+socialShare: no
 ---
 
 We are a team of 10 researchers from Goethe University Frankfurt investigating online consumer privacy. 

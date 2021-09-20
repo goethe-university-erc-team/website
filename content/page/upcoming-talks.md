@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Upcoming Talks
+socialShare: yes
 ---
 
 Here is a list of our upcoming talks:

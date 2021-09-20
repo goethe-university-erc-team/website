@@ -2,6 +2,7 @@
 layout: page
 title: ERC Grant
 subtitle: ERC Advanced Investigator Grant
+socialShare: no
 ---
 
 ### Economic Consequences of Restrictions on the Usage of Cookies

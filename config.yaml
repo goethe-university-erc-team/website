@@ -7,11 +7,14 @@ pygmentsStyle: trac
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
+enableEmoji: yes
+canonifyurls: yes
 Params:
+  subtitle: Economic Consequences of Restrictions on the Usage of Cookies
   comments: no
   commit: no
-  dateFormat: January 2, 2006
-  delayDisqus: yes
+  dateFormat: 2006-01-02
+  delayDisqus: no
   favicon: img/favicon-cookie.ico
   logo: img/logo-cookie.jpeg
   mainSections:
@@ -21,11 +24,11 @@ Params:
   rss: no
   showRelatedPosts: yes
   socialShare: yes
-  subtitle: Economic Consequences of Restrictions on the Usage of Cookies
   useHLJS: yes
   wordCount: no
+  hideAuthor: yes
 Author:
-  name: ERC Advanced Investigator Grant
+  name: ERC Team
   email: goethe-university-erc-team@protonmail.com
   github: https://github.com/goethe-university-erc-team
   website: https://goethe-erc-team.netlify.app

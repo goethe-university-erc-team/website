@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Past Talks
+socialShare: no
 ---
 
 Here is a list of our team's previous talks:

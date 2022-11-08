@@ -93,9 +93,9 @@ menu:
       url: page/team
       weight: 2
   # 3rd tab
-    - name: Blog
-      url: ''
-      weight: 5
+    # - name: Blog
+      # url: ''
+      # weight: 5
 
 markup:
   goldmark:

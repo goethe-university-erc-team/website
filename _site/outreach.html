@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.267">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./static/img/favicon-cookie.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./static/img/favicon-cookie.ico" alt="" class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./team.html">
+ <span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./presentations.html">
+ <span class="menu-text">Presentations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./outreach.html" aria-current="page">
+ <span class="menu-text">Outreach</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./workshops.html">
+ <span class="menu-text">Workshops</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html">
+ <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#outreach-to-policy-circles" id="toc-outreach-to-policy-circles" class="nav-link active" data-scroll-target="#outreach-to-policy-circles">Outreach to Policy Circles</a></li>
+  <li><a href="#outreach-to-industry" id="toc-outreach-to-industry" class="nav-link" data-scroll-target="#outreach-to-industry">Outreach to Industry</a></li>
+  <li><a href="#outreach-to-broader-press-and-social-networks" id="toc-outreach-to-broader-press-and-social-networks" class="nav-link" data-scroll-target="#outreach-to-broader-press-and-social-networks">Outreach to Broader Press and Social Networks</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="outreach-to-policy-circles" class="level1">
+<h1>Outreach to Policy Circles</h1>
+<p>2022-06-14: Bernd Skiera: Participation at the virtual event on “Whither the Regulation of Online Advertising? Debating Policy Options and Their Impact on Businesses in Europe” of Mercator Science-Policy Fellowship-Program of the Rhine-Main-Universities (with Andrea Lassmann (University of Mainz), Benjamin Mueller (Center for Data Innovation) and Gösta Petri (European Commission)</p>
+<p>2022-06-01: Bernd Skiera: Personal meeting with Susanne Ding (Head of the Digital Infrastructure Law Unit, Federal Ministry of Transport and Digital Infrastructure), (“Leiterin Referates Recht der Digitalen Infrastruktur, Bundesministerium für Verkehr und Digitale Infrastruktur”)</p>
+<p>2022-02-21: Bernd Skiera: Conference Call with Prof.&nbsp;Dr.&nbsp;Peter Kenning (Head of Advisory Council for Consumer Affairs) (“Sachverständigenrat für Verbraucherfragen”) to discuss insights of the book “The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Industry”</p>
+<p>2021-12-15: Bernd Skiera: Science-Policy Meeting with Carl Gösta Petri (Deputy Head of Unit at European Commission)</p>
+<p>2021-11-19: Bernd Skiera: “The Impact of the General Data Protection Regulation (GDPR) on the Different Actors in the Online Advertising Industry”, 10. Frankfurter IT-Rechtstag</p>
+<p>2021-11-03: Bernd Skiera: Attendance of Conference of “Stiftung Datenschutz” on “DatenTag: Das TTDSG und neue Wege zur Einwilligungsverwaltung”, Berlin</p>
+<p>2021-09-07 and subsequent days: Detailed feedback on the first draft of the book (“The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Market”) from Filip Sedefov and Alexandre Nderagakura (Internet Advertising Bureau (IAB) Europe)</p>
+<p>2021-08-26 and subsequent days: Detailed feedback on the first draft of the book (“The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Market”) from Johnny Ryan (Irish Council for Civil Liberties)</p>
+<p>2021-03-18: Lennart Kraft: “Recommender Systems in a FAIR Financial Research Data Repository” at meeting of “Fachinformationsdienstleister, Goethe-Universitätsbibliothek, Hessisches Bibliotheksinformationssystem” about the production and enrichment of research data.</p>
+<p>2022-05-17: Lennart Kraft: Meeting of “Affiliate of Working Group on Research Data Ethics” in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)</p>
+<p>2022-09-15: Lennart Kraft: Meeting of “Affiliate of Working Group on Research Data Ethics” in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)</p>
+<p>2022-02-03: Lennart Kraft: Meeting of “Affiliate of Working Group on Research Data Ethics” in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)</p>
+<p>2021-07-14: Lennart Kraft: Meeting of “Affiliate of Working Group on Research Data Ethics” in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)</p>
+<p>2021-06-02: Lennart Kraft: Meeting of “Affiliate of Working Group on Research Data Ethics” in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)</p>
+<p>2021-01-14: Lennart Kraft: Meeting of “Affiliate of Working Group on Research Data Ethics” in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)</p>
+</section>
+<section id="outreach-to-industry" class="level1">
+<h1>Outreach to Industry</h1>
+<p>2022-09-28: Lennart Kraft &amp; Timo Müller-Tribbensee: Attendance of DDV-Kongress</p>
+<p>2022-09-27: Bernd Skiera: Dinner with other speakers of DDV-Kongress, Frankfurt</p>
+<p>2022-09-19: Lennart Kraft &amp; Bernd Skiera: Virtual meeting of Lennart Kraft &amp; Bernd Skiera with Tim Koschella, CEO of Kayzen.</p>
+<p>2022-09-21: Bernd Skiera: Attendance of DMEXCO</p>
+<p>2022-09-20: Lennart Kraft &amp; Timo Müller-Tribbensee: Participation at Online Ad Summit in Cologne#</p>
+<p>2022-09-19: Bernd Skiera: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2022-09-16: Bernd Skiera: Virtual Meeting with Tilman Harmeling from Usercentrics to discuss findings of consent rates of consumers</p>
+<p>2022-09-13: Bernd Skiera &amp; Lennart Kraft: Virtual Meeting with Paul-Olivier Dehaye, Charles Foucault-Dumas, Mirko De Bortoli &amp; Haixin Shi (all from Hastia.ai) to discuss the use of a new tool to collect further information about the online advertising market</p>
+<p>2022-07-15: Bernd Skiera &amp; Lennart Kraft: Virtual Meeting with Linda Worm from Opt Out Advertising</p>
+<p>2022-05-19: Presentation of Bernd Skiera on “Impact of GDPR on Online Advertising Market” at Customer Insights Center at University of Groningen (Utrecht, The Netherlands)</p>
+<p>2022-05-10: Bernd Skiera. „Privatsphäre in der digitalen Marktwirtschaft” („Privacy in the Digital Market Economy”), Virtual Presentation at Initiative E-Commerce of Economic Council Germany („Wirtschaftsrats Deutschland”)</p>
+<p>2022-03-30: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2022-03-15: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2022-02-23: Meeting of Bernd Skiera, Yuxi Jin with Sonia Carreno (President of IAB Canada) on the privacy protection work carried out in Canada, Belgian DPA’s ruling on IAB Europe, future of data privacy.</p>
+<p>2022-02-23: Phone call of Yuxi Jin with Xiangyang Wang (Lawyer, Han Kun Law Offices, one of the top law firms in China): Discussion of questions regarding the Personal Information Protection Law (PIPL) of the People’s Republic of China</p>
+<p>2022-02-15: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2022-01-18: Bernd Skiera, Yuxi Jin, Lennart Kraft, René Laub, “Ökonomische Auswirkungen der Datenschutz-Grundverordnung (DS-GVO) auf Unternehmen in der Online-Werbebranche” (“Economic impact of the General Data Protection Regulation (GDPR) on Companies in the Online Advertising Industry”), virtual presentation at Förderverein of Marketingclub Frankfurt.</p>
+<p>2022-01-18: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-12-08: Bernd Skiera: „Erkenntnisse über den Einsatz des Transparency &amp; Consent Framework (TCF)“, bvdw - Lab Consent</p>
+<p>2021-11-14: Phone call of Yuxi Jin with Yuwei Zhang (Ali Pay): Discussion of reactions of Ali in complying with the Personal Information Protection Law (PIPL) of the People’s Republic of China</p>
+<p>2021-11-12: Phone call of Yuxi Jin with Elena Turtureanu (Senior Privacy and Compliance Counsel, Global at Adform): Discussion of questions regarding the transparency and consent framework (TCF) implementation</p>
+<p>2021-10-22: Virtual meeting of Yuxi Jin with Elena Turtureanu (Senior Privacy and Compliance Counsel, Global at Adform): Discussion of questions regarding the transparency and consent framework (TCF) implementation</p>
+<p>2021-10-21: Virtual meeting of Bernd Skiera &amp; René Laub with Dr.&nbsp;Wenzel Drechsler &amp; Melanie Friedrich (both employees at United Internet Media) to discuss results of the research project “The Effect of the Safari Anti-Tracking Update on Online Advertising”</p>
+<p>2021-10-19: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-10-05: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-09-21: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-09-14: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-08-30: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-08-24 and subsequent days: Detailed feedback on the first draft of the book (“The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Market”) from Dirk Freytag (CEO Contentpass)</p>
+<p>2021-08-24: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-07-31: Article of Bernd Skiera in Newsletter of 10. Frankfurter IT-Rechtstag</p>
+<p>2021-07-13: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-06-30: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-06-15: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-06-01: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-05-04: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-04-26: Virtual meeting of Bernd Skiera, Yuxi Jin, Julia Schmitt with Filip Sedefov (Legal Director): Discussion of questions regarding legal topics on GPDR and the transparency and consent framework (TCF)</p>
+<p>2021-04-20: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-04-06: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-03-23: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-03-10: Virtual meeting of Bernd Skiera with Anna Schenk (Sesmasio): Discussion of her view on the online advertising industry, including the transparency and consent framework (TCF)</p>
+<p>2021-03-09: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-02-23: Virtual meeting of Bernd Skiera with Christian Messerschmidt (Interone): Discussion of his view on the online advertising industry, including the measurement differences between publishers and advertisers</p>
+<p>2021-02-23: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2021-02-24: Participation of Julia Schmitt in expert discussion of virtual event “PrivacyConnect” by OneTrust Germany</p>
+<p>2021-02-17: Discussion of Cookie Consent Management with Dennis Alder &amp; Christian Salzwedel (American Express)</p>
+<p>2021-01-11: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2020-12-15: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2020-11-17: Participation of Julia Schmitt in expert discussion of virtual event “CookieConnect” by OneTrust Germany</p>
+<p>2020-12-16: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2020-11-03: Virtual meeting of Bernd Skiera with members of subproject “Data Economics” (Datenökonomie) of BMBF-Project “DIDAT” Datenökonomie</p>
+<p>2020-10-21: Virtual meeting of Bernd Skiera &amp; Julia Schmitt with Anne Schenk of Semasio, Dr.&nbsp;Christoph Bauer of eprivacy &amp; Martin Possekel of Futuremarketing</p>
+<p>2020-10-21: Virtual meeting of Bernd Skiera &amp; Julia Schmitt with Anne Schenk of Semasio, Dr.&nbsp;Christoph Bauer of eprivacy &amp; Martin Possekel of Futuremarketing</p>
+<p>2020-10-02: Meeting of Bernd Skiera &amp; René Laub with Wenzel Drechsler &amp; Melanie Friedrich of United Internet: Discussion of Data for Field Study</p>
+<p>2020-09-18: Meeting of Bernd Skiera &amp; Julia Schmitt with Anna Schenk of Semasio</p>
+<p>2020-09-03: Meeting of Bernd Skiera &amp; Julia Schmitt with Abdelkader Barjiji of Stroer Media Solutions</p>
+<p>2020-09-02: Meeting of Bernd Skiera &amp; Julia Schmitt with Sabine Schmidt of Webedia</p>
+<p>2020-08-25: Presentation of Julia Schmitt &amp; Bernd Skiera of “Cookie Banner Designs and Their Impact on Cookie Consent Rates” and “Content of ERC Grant” at Virtual Meeting of Bundesverband Digitale Wirtschaft (BVDV), User group: “Lab Consent Management”</p>
+<p>2020-08-24: Meeting of Bernd Skiera with Bundesverband Digitale Wirtschaft (BVDV), which is part of IAB Europe (Thomas Duhr, Dirk Freytag)</p>
+<p>2020-08-17: Participation of Julia Schmitt &amp; Bernd Skiera Virtual Meeting of Bundesverband Digitale Wirtschaft (BVDV), User group: “Lab Consent Management”</p>
+<p>2020-03-30: Meeting of Bernd Skiera &amp; René Laub with Wenzel Drechsler &amp; Melanie Friedrich of United Internet: Discussion of Data for Field Study</p>
+<p>2020-02-17: Julia Schmitt, “Knowledge Dissemination about Cookie Consent Banners on the Internet”, ING Diba, Frankfurt</p>
+<p>2019-12-04: Klaus Miller &amp; Bernd Skiera, “Ich weiß was Du letzten Sommer getan hast. Online Tracking und Schutz der Privatsphäre” (In English: “I know what you did last summer. Online tracking and privacy protection”), 46. Deutscher Marketing Tag, Düsseldorf.</p>
+</section>
+<section id="outreach-to-broader-press-and-social-networks" class="level1">
+<h1>Outreach to Broader Press and Social Networks</h1>
+<p>2021-11-11: Anja Weckmann, Studioleiterin SWR Studio Trier (Studio Manager SWR Studio Trier), Südwestrundfunk (Southwest German Radio)</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Copyright © 2022 | ERC Grant Agreement Number 833714</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://github.com/goethe-university-erc-team/website">Source Code</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/skiera/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

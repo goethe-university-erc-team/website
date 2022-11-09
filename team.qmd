@@ -1,0 +1,65 @@
+---
+title: "Current Team Members"
+---
+
+### Bernd Skiera
+
+![](static/img/profile-bernd.jpg){width="100"}
+
+Principal Investigator, Professor of Electronic Commerce, [Read More...](https://www.marketing.uni-frankfurt.de/de/professoren/skiera/prof-dr-bernd-skiera.html)
+
+### Klaus Miller
+
+![](static/img/profile-klaus.jpg){width="100"}
+
+Assistant Professor of Quantitative Marketing, [Read More...](https://sites.google.com/view/klausmiller/)
+
+### René Laub
+
+![](static/img/profile-rene.jpg){width="100"}
+
+Research Assistant, [Read More...](linkedin.com/in/rene-laub-21b5a7103)
+
+### Yuxi Jin
+
+![](static/img/profile-yuxi.jpg){width="109"}
+
+Research Assistant, [Read More...](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/yuxi-jin.html)
+
+### Lennart Kraft
+
+![](static/img/profile-lennart.jpg){width="100"}
+
+Research Assistant, [Read More...](https://lennartkraft.com)
+
+### Karlo Lukic
+
+![](static/img/profile-karlo.jpg){width="99"}
+
+Research Assistant, [Read More...](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/karlo-lukic.html)
+
+### Timo Müller-Tribbensee
+
+![](static/img/profile-timo.jpg){width="100"}
+
+Research Assistant, [Read More...](https://www.marketing.uni-frankfurt.de/de/professoren/skiera/team/wissenschaftliche-mitarbeiter/timo-mueller-tribbensee.html)
+
+### Ulrich Laitenberger
+
+![](static/img/profile-ulrich.jpg){width="100"}
+
+Visiting Professor, [Read More...](https://www.ulrich-laitenberger.com)
+
+### Christine Eckert
+
+![](static/img/profile-christine.jpg){width="100"}
+
+Visiting Professor, [Read More...](https://profiles.uts.edu.au/christine.eckert)
+
+## Previous Team Members
+
+### Julia Schmitt
+
+![](static/img/profile-julia.jpg){width="100"}
+
+Associate at McKinsey & Company, [Read More...](https://www.linkedin.com/in/dr-julia-schmitt-878853108/)

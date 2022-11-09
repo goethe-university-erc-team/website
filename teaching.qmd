@@ -1,0 +1,14 @@
+---
+title: "Integration in Teaching Curriculum at Goethe University Frankfurt"
+toc: false
+---
+
+2021-Summer Semester: Seminar on "Using Data Science to Better Understand Online Consumer Privacy", Bachelor Program of Goethe University (Klaus Miller & Bernd Skiera)
+
+2020-2021-Winter Semester: Seminar on "Using Data Science to Better Understand Online Consumer Privacy", Bachelor Program of Goethe University (Klaus Miller & Bernd Skiera)
+
+2020-Summer Semester: Seminar on "Using Data Science to Better Understand Online Consumer Privacy", Bachelor Program of Goethe University (Klaus Miller & Bernd Skiera)
+
+2019-2020-Winter Semester: "Reading Group: 'Consumer Privacy on the Internet'", PhD Program of Goethe University (Bernd Skiera & Klaus Miller)
+
+2019-2020-Winter Semester: "Analytics in Customer Value Management", Master Program of Goethe University (Bernd Skiera)

@@ -1,0 +1,167 @@
+---
+title: ""
+---
+
+# Outreach to Policy Circles
+
+2022-06-14: Bernd Skiera: Participation at the virtual event on "Whither the Regulation of Online Advertising? Debating Policy Options and Their Impact on Businesses in Europe" of Mercator Science-Policy Fellowship-Program of the Rhine-Main-Universities (with Andrea Lassmann (University of Mainz), Benjamin Mueller (Center for Data Innovation) and Gösta Petri (European Commission)
+
+2022-06-01: Bernd Skiera: Personal meeting with Susanne Ding (Head of the Digital Infrastructure Law Unit, Federal Ministry of Transport and Digital Infrastructure), ("Leiterin Referates Recht der Digitalen Infrastruktur, Bundesministerium für Verkehr und Digitale Infrastruktur")
+
+2022-02-21: Bernd Skiera: Conference Call with Prof. Dr. Peter Kenning (Head of Advisory Council for Consumer Affairs) ("Sachverständigenrat für Verbraucherfragen") to discuss insights of the book "The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Industry"
+
+2021-12-15: Bernd Skiera: Science-Policy Meeting with Carl Gösta Petri (Deputy Head of Unit at European Commission)
+
+2021-11-19: Bernd Skiera: "The Impact of the General Data Protection Regulation (GDPR) on the Different Actors in the Online Advertising Industry", 10. Frankfurter IT-Rechtstag
+
+2021-11-03: Bernd Skiera: Attendance of Conference of "Stiftung Datenschutz" on "DatenTag: Das TTDSG und neue Wege zur Einwilligungsverwaltung", Berlin
+
+2021-09-07 and subsequent days: Detailed feedback on the first draft of the book ("The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Market") from Filip Sedefov and Alexandre Nderagakura (Internet Advertising Bureau (IAB) Europe)
+
+2021-08-26 and subsequent days: Detailed feedback on the first draft of the book ("The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Market") from Johnny Ryan (Irish Council for Civil Liberties)
+
+2021-03-18: Lennart Kraft: "Recommender Systems in a FAIR Financial Research Data Repository" at meeting of "Fachinformationsdienstleister, Goethe-Universitätsbibliothek, Hessisches Bibliotheksinformationssystem" about the production and enrichment of research data.
+
+2022-05-17: Lennart Kraft: Meeting of "Affiliate of Working Group on Research Data Ethics" in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)
+
+2022-09-15: Lennart Kraft: Meeting of "Affiliate of Working Group on Research Data Ethics" in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)
+
+2022-02-03: Lennart Kraft: Meeting of "Affiliate of Working Group on Research Data Ethics" in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)
+
+2021-07-14: Lennart Kraft: Meeting of "Affiliate of Working Group on Research Data Ethics" in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)
+
+2021-06-02: Lennart Kraft: Meeting of "Affiliate of Working Group on Research Data Ethics" in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)
+
+2021-01-14: Lennart Kraft: Meeting of "Affiliate of Working Group on Research Data Ethics" in ständiger Ausschuss für Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und Wirtschaftsdaten (RatSWD)
+
+# Outreach to Industry
+
+2022-09-28: Lennart Kraft & Timo Müller-Tribbensee: Attendance of DDV-Kongress
+
+2022-09-27: Bernd Skiera: Dinner with other speakers of DDV-Kongress, Frankfurt
+
+2022-09-19: Lennart Kraft & Bernd Skiera: Virtual meeting of Lennart Kraft & Bernd Skiera with Tim Koschella, CEO of Kayzen.
+
+2022-09-21: Bernd Skiera: Attendance of DMEXCO
+
+2022-09-20: Lennart Kraft & Timo Müller-Tribbensee: Participation at Online Ad Summit in Cologne#
+
+2022-09-19: Bernd Skiera: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2022-09-16: Bernd Skiera: Virtual Meeting with Tilman Harmeling from Usercentrics to discuss findings of consent rates of consumers
+
+2022-09-13: Bernd Skiera & Lennart Kraft: Virtual Meeting with Paul-Olivier Dehaye, Charles Foucault-Dumas, Mirko De Bortoli & Haixin Shi (all from Hastia.ai) to discuss the use of a new tool to collect further information about the online advertising market
+
+2022-07-15: Bernd Skiera & Lennart Kraft: Virtual Meeting with Linda Worm from Opt Out Advertising
+
+2022-05-19: Presentation of Bernd Skiera on "Impact of GDPR on Online Advertising Market" at Customer Insights Center at University of Groningen (Utrecht, The Netherlands)
+
+2022-05-10: Bernd Skiera. „Privatsphäre in der digitalen Marktwirtschaft" („Privacy in the Digital Market Economy"), Virtual Presentation at Initiative E-Commerce of Economic Council Germany („Wirtschaftsrats Deutschland")
+
+2022-03-30: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2022-03-15: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2022-02-23: Meeting of Bernd Skiera, Yuxi Jin with Sonia Carreno (President of IAB Canada) on the privacy protection work carried out in Canada, Belgian DPA's ruling on IAB Europe, future of data privacy.
+
+2022-02-23: Phone call of Yuxi Jin with Xiangyang Wang (Lawyer, Han Kun Law Offices, one of the top law firms in China): Discussion of questions regarding the Personal Information Protection Law (PIPL) of the People's Republic of China
+
+2022-02-15: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2022-01-18: Bernd Skiera, Yuxi Jin, Lennart Kraft, René Laub, "Ökonomische Auswirkungen der Datenschutz-Grundverordnung (DS-GVO) auf Unternehmen in der Online-Werbebranche" ("Economic impact of the General Data Protection Regulation (GDPR) on Companies in the Online Advertising Industry"), virtual presentation at Förderverein of Marketingclub Frankfurt.
+
+2022-01-18: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-12-08: Bernd Skiera: „Erkenntnisse über den Einsatz des Transparency & Consent Framework (TCF)", bvdw - Lab Consent
+
+2021-11-14: Phone call of Yuxi Jin with Yuwei Zhang (Ali Pay): Discussion of reactions of Ali in complying with the Personal Information Protection Law (PIPL) of the People's Republic of China
+
+2021-11-12: Phone call of Yuxi Jin with Elena Turtureanu (Senior Privacy and Compliance Counsel, Global at Adform): Discussion of questions regarding the transparency and consent framework (TCF) implementation
+
+2021-10-22: Virtual meeting of Yuxi Jin with Elena Turtureanu (Senior Privacy and Compliance Counsel, Global at Adform): Discussion of questions regarding the transparency and consent framework (TCF) implementation
+
+2021-10-21: Virtual meeting of Bernd Skiera & René Laub with Dr. Wenzel Drechsler & Melanie Friedrich (both employees at United Internet Media) to discuss results of the research project "The Effect of the Safari Anti-Tracking Update on Online Advertising"
+
+2021-10-19: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-10-05: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-09-21: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-09-14: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-08-30: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-08-24 and subsequent days: Detailed feedback on the first draft of the book ("The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Market") from Dirk Freytag (CEO Contentpass)
+
+2021-08-24: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-07-31: Article of Bernd Skiera in Newsletter of 10. Frankfurter IT-Rechtstag
+
+2021-07-13: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-06-30: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-06-15: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-06-01: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-05-04: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-04-26: Virtual meeting of Bernd Skiera, Yuxi Jin, Julia Schmitt with Filip Sedefov (Legal Director): Discussion of questions regarding legal topics on GPDR and the transparency and consent framework (TCF)
+
+2021-04-20: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-04-06: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-03-23: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-03-10: Virtual meeting of Bernd Skiera with Anna Schenk (Sesmasio): Discussion of her view on the online advertising industry, including the transparency and consent framework (TCF)
+
+2021-03-09: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-02-23: Virtual meeting of Bernd Skiera with Christian Messerschmidt (Interone): Discussion of his view on the online advertising industry, including the measurement differences between publishers and advertisers
+
+2021-02-23: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-02-24: Participation of Julia Schmitt in expert discussion of virtual event "PrivacyConnect" by OneTrust Germany
+
+2021-02-17: Discussion of Cookie Consent Management with Dennis Alder & Christian Salzwedel (American Express)
+
+2021-01-11: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2020-12-15: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2020-11-17: Participation of Julia Schmitt in expert discussion of virtual event "CookieConnect" by OneTrust Germany
+
+2020-12-16: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2020-11-03: Virtual meeting of Bernd Skiera with members of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2020-10-21: Virtual meeting of Bernd Skiera & Julia Schmitt with Anne Schenk of Semasio, Dr. Christoph Bauer of eprivacy & Martin Possekel of Futuremarketing
+
+2020-10-21: Virtual meeting of Bernd Skiera & Julia Schmitt with Anne Schenk of Semasio, Dr. Christoph Bauer of eprivacy & Martin Possekel of Futuremarketing
+
+2020-10-02: Meeting of Bernd Skiera & René Laub with Wenzel Drechsler & Melanie Friedrich of United Internet: Discussion of Data for Field Study
+
+2020-09-18: Meeting of Bernd Skiera & Julia Schmitt with Anna Schenk of Semasio
+
+2020-09-03: Meeting of Bernd Skiera & Julia Schmitt with Abdelkader Barjiji of Stroer Media Solutions
+
+2020-09-02: Meeting of Bernd Skiera & Julia Schmitt with Sabine Schmidt of Webedia
+
+2020-08-25: Presentation of Julia Schmitt & Bernd Skiera of "Cookie Banner Designs and Their Impact on Cookie Consent Rates" and "Content of ERC Grant" at Virtual Meeting of Bundesverband Digitale Wirtschaft (BVDV), User group: "Lab Consent Management"
+
+2020-08-24: Meeting of Bernd Skiera with Bundesverband Digitale Wirtschaft (BVDV), which is part of IAB Europe (Thomas Duhr, Dirk Freytag)
+
+2020-08-17: Participation of Julia Schmitt & Bernd Skiera Virtual Meeting of Bundesverband Digitale Wirtschaft (BVDV), User group: "Lab Consent Management"
+
+2020-03-30: Meeting of Bernd Skiera & René Laub with Wenzel Drechsler & Melanie Friedrich of United Internet: Discussion of Data for Field Study
+
+2020-02-17: Julia Schmitt, "Knowledge Dissemination about Cookie Consent Banners on the Internet", ING Diba, Frankfurt
+
+2019-12-04: Klaus Miller & Bernd Skiera, "Ich weiß was Du letzten Sommer getan hast. Online Tracking und Schutz der Privatsphäre" (In English: "I know what you did last summer. Online tracking and privacy protection"), 46. Deutscher Marketing Tag, Düsseldorf.
+
+# Outreach to Broader Press and Social Networks
+
+2021-11-11: Anja Weckmann, Studioleiterin SWR Studio Trier (Studio Manager SWR Studio Trier), Südwestrundfunk (Southwest German Radio)

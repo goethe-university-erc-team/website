@@ -1,0 +1,18 @@
+---
+title: ""
+toc: false
+---
+
+![](static/img/logo-erc-goethe.png)
+
+# Economic Consequences of Restrictions on the Usage of Cookies {style="text-align:center"}
+
+------------------------------------------------------------------------
+
+# Official Website for ERC Team of Prof. Dr. Bernd Skiera {style="text-align:center"}
+
+## Goethe University Frankfurt, Germany {style="text-align:center"}
+
+::: {style="text-align:left"}
+The [European Research Council](https://erc.europa.eu/homepage) (ERC) provided [Prof.Dr.Bernd Skiera](contact.qmd) at [Goethe University Frankfurt in Germany](https://www.goethe-university-frankfurt.de/en) with a substantial (ERC Advanced Investigator) research grant to examine the economic consequences of stronger restrictions on tracking technologies. Professor Skiera and his team pursued [several empirical projects](publications.qmd) to demonstrate these consequences.
+:::

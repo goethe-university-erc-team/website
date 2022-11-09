@@ -1,0 +1,49 @@
+project:
+  type: site
+
+site:
+  title: false
+  favicon: static/img/favicon-cookie.ico
+  search: true
+  navbar:
+    logo: static/img/favicon-cookie.ico
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Team
+      - href: publications.qmd
+        text: Publications
+      - presentations.qmd
+      - href: outreach.qmd
+        text: Outreach
+      - workshops.qmd
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+    border: true
+    background: light
+    left: "Copyright © 2022 | ERC Grant Agreement Number 833714" 
+    center: 
+    right: 
+      - icon: github
+        href: https://github.com/goethe-university-erc-team/website
+      - icon: linkedin
+        href: https://www.linkedin.com/in/skiera/
+  # repo-url: https://github.com/goethe-university-erc-team/website
+  # repo-actions: [edit, issue]
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: slate
+    css: styles.css
+    toc: true
+
+editor: visual

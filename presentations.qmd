@@ -1,0 +1,120 @@
+---
+title: "Presentations"
+toc: false
+---
+
+## Presentations at Universities, Institutions and Conferences
+
+::: {.callout-note appearance="simple" icon="false"}
+The name of the presenting author is bolded.
+:::
+
+2022-09-28: **Bernd Skiera**, "Ökonomische Auswirkungen von höheren Privacy-Anforderungen auf werbetreibende Unternehmen", Wissenschaftlicher Kongress des Deutscher Dialogmarketing Verbands e.V. (DDV), Frankfurt, (in English: "Economic Impact of Higher Privacy Requirements on Advertising Cmpanies", Scientific Congress of German Dialog Marketing Association)
+
+2022-09-14: **Karlo Lukic**, Klaus Miller, Bernd Skiera, "The Impact of the General Data Protection Regulation (GDPR) on Online Tracking", VfS Annual Conference, Basel, Switzerland.
+
+2022-09-13: **Yuxi Jin** & Bernd Skiera, "Standardized Consent for Personal Data Privacy and Tracked Web Traffic", meeting with Scott Shriver, Leeds School of Business, University of Colorado Boulder (virtual meeting).
+
+2022-09-06: **Timo Mueller-Tribbensee**, Klaus Miller, Bernd Skiera: "Privacy Exclusively for Payment: Why Do Publishers Increasingly Adopt Pay-or-Consent Walls", Marketing Department Research Seminar, Riezlern, Austria.
+
+2022-09-05: **Lennart Kraft, Bernd Skiera**: "Economic Impact of Apple's App Tracking Transparency (ATT)", Marketing Department Research Seminar, Riezlern, Austria.
+
+2022-09-05: Poster presentations of **Yuxi Jin & Karlo Lukic**, Marketing Department Research Seminar, Riezlern, Austria.
+
+2022-07-07: **Yuxi** Jin & Bernd Skiera, "How Does A Standard To Implement Privacy Regulations Affect Web Traffic and Tracking?", 20th ZEW Conference on the Economics of Information and Communication Technologies, Mannheim, Germany
+
+2022-07-07: **Karlo Lukic**, Klaus Miller, Bernd Skiera, "The Impact of the General Data Protection Regulation (GDPR) on Online Tracking", 20th ZEW Conference on the Economics of Information and Communication Technologies, Mannheim, Germany.
+
+2022-06-21: **Yuxi Jin** & Bernd Skiera, "How Does A Standard To Implement Privacy Regulations Affect Web Traffic and Tracking?", Eighteenth Symposium on Statistical Challenges in Electronic Commerce Research (SCECR 2022), Madrid, Spain.
+
+2022-06-21: **Timo Mueller-Tribbensee**, Klaus Miller, Bernd Skiera, "Why Do we See so many Pay-or-Consent Walls", Eighteenth Symposium on Statistical Challenges in Electronic Commerce Research (SCECR 2022), Madrid, Spain.
+
+2022-06-16: **Lennart Kraft**, "Tax Revenue, Privacy, and Profits under Taxed Targeted Advertisements?", 44th Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2022-06-16: **Yuxi Jin** & Bernd Skiera, "How Does A Standard To Implement Privacy Regulations Affect Web Traffic and Tracking?", 44th Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2022-06-16: **Karlo Lukic**, Klaus Miller, Bernd Skiera, "The Impact of the General Data Protection Regulation (GDPR) on Online Tracking", 44th Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2022-06-16: **Timo Mueller-Tribbensee**, Klaus Miller, Bernd Skiera, "Why Do we See so Many Pay-or-Consent Walls", 44th Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2022-06-10: **Yuxi Jin** & Bernd Skiera: "How Does A Standard To Implement Privacy Regulations Affect Web Traffic and Tracking?", Munich Summer Institute (MSI) 2022, Munich, Germany.
+
+2022-05-25: **Timo Mueller-Tribbensee**, Klaus Miller, Bernd Skiera, "Why Do we See so Many Pay-or-Consent Walls", European Marketing Academy (EMAC) Conference 2022, Budapest, Hungary.
+
+2022-05-24: **Karlo Lukic**, Klaus Miller, Bernd Skiera, "The Impact of the General Data Protection Regulation (GDPR) on Online Tracking", European Marketing Academy (EMAC) Conference 2022, Budapest, Hungary
+
+2022-05-25: **Bernd Skiera**, "Digital Marketing in a Cookieless World: Insights from the ERC Grant 'Cookies'", European Marketing Academy (EMAC) Conference 2022, Budapest, Hungary
+
+2022-05-10: **Yuxi Jin** & Bernd Skiera, "How Does A Standard To Implement Privacy Regulations Affect Web Traffic and Tracking?", 2022 Theory & Practice in Marketing Conference, Emory, Atlanta, USA.
+
+2022-05-11: **Bernd Skiera**, „Presentation of ERC Advanced Grant ‚Cookies'", Virtual Presentation at Goethe University Frankfurt ("Profilbereichstreffen" of "Orders and Transformations")
+
+2022-04-01: **Karlo Lukic**, Klaus Miller, Bernd Skiera, "The Impact of the General Data Protection Regulation (GDPR) on the Amount of Online Tracking", NBER Privacy Conference on March 31 and April 1 in Washington DC, USA.
+
+2021-12-15: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of User-Tracking for Publishers", Joint Research Seminar with Chair of Information Systems and Information Management, Goethe University Frankfurt.
+
+2021-11-12: **Lennart Kraft**, Klaus Miller, Bernd Skiera: "Richness and Consistency of Consumer Profiles and Their Development over Time". Presentation in internal job market seminar at Goethe University Frankfurt.
+
+2021-10-25: **Karlo Lukic**, Klaus Miller, Bernd Skiera: "The Impact of General Data Protection Regulation (GDPR) on Third-Party Online Tracking", Interactive Marketing Research Conference (IMRC) 2021 Conference (virtual meeting).
+
+2021-10-25: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of User-Tracking for Publishers", Interactive Marketing Research Conference (IMRC) 2021 Conference (virtual meeting).
+
+2021-10-21: **Timo Mueller-Tribbensee**, Klaus Miller, Bernd Skiera: "Cookie-or-Paywalls: How Publishers Obtain Consent Online", Interactive Marketing Research Conference (IMRC) 2021 Conference (virtual meeting).
+
+2021-09-14: **Bernd Skiera**, "User Tracking, Profiling and Targeting in Online Advertising", virtual seminar of subproject "Data Economics" (Datenökonomie) of BMBF-Project "DIDAT" Datenökonomie
+
+2021-06-17: **Karlo Lukic**, Klaus Miller, Bernd Skiera: "The Impact of General Data Protection Regulation (GDPR) on Third-Party Online Tracking", Seventeenth Symposium on Statistical Challenges in Electronic Commerce Research (SCECR 2021) (virtual meeting).
+
+2021-06-11: **Karlo Lukic**, Klaus Miller, Bernd Skiera: "The Impact of General Data Protection Regulation (GDPR) on Third-Party Online Tracking", 19th ZEW Conference on the Economics of Information and Communication Technologies (virtual meeting).
+
+2021-06-11: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User-Tracking", 19th ZEW Conference on the Economics of Information and Communication Technologies (virtual meeting)
+
+2021-06-09: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User-Tracking", Theory and Practice in Marketing Conference, The Wharton School of the University of Pennsylvania (virtual meeting)
+
+2021-06-07: **Karlo Lukic**, Klaus Miller, Bernd Skiera: "The Impact of General Data Protection Regulation (GDPR) on Third-Party Online Tracking", Munich Summer Institute (MSI) 2021 (virtual meeting).
+
+2021-06-04: **Julia Schmitt**: "Choose Wisely: The Impact of Consent Banner Designs on Consent Rates", 43rd Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2021-06-04: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User-Tracking", 43rd Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2021-06-04: **Karlo Lukic**, Klaus Miller, Bernd Skiera: "The Impact of General Data Protection Regulation (GDPR) on Third-Party Online Tracking", 43rd Annual INFORMS Society for Marketing Science (ISMS) Conference (virtual meeting).
+
+2021-05-27: **Julia Schmitt**: "Choose Wisely: The Impact of Consent Banner Designs on Consent Rates", EMAC 2021 - The 50th Annual Conference of the European Marketing Academy (virtual meeting).
+
+2021-05-26: **Lennart Kraft**, Klaus Miller, Bernd Skiera: "Density, Pace, and Consistency in Third-Party Consumer Profiling", Special Session "Online Privacy" at EMAC 2021 - The 50th Annual Conference of the European Marketing Academy (virtual meeting).
+
+2021-05-26: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User-Tracking", Special Session "Marketing Analytics and Privacy" at EMAC 2021 - The 50th Annual Conference of the European Marketing Academy (virtual meeting).
+
+2021-05-24: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User-Tracking", Doctoral Colloquium at EMAC 2021 - The 50th Annual Conference of the European Marketing Academy (virtual meeting).
+
+2021-02-12: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User Data for Publishers", HEC, Paris, France.
+
+2021-02-11: **Bernd Skiera**: "Impact of GDPR on Different Actors in the Online Advertising Industry and Other Industries", Jour Fixe of EFL -- The Data Science Institute
+
+2021-01-26: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of User-Tracking for Publishers", Marketing Department Research Seminar, Goethe University Frankfurt, Germany.
+
+2020-11-06: **Bernd Skiera**, "How Do GDPR and Other Privacy Laws Impact the Online Advertising Market", Impulse Session at TechConference 2020, "Can Tech Save The World?", https://conference.tech-academy.io/
+
+2020-11-05: **Julia Schmitt**, Klaus Miller, Bernd Skiera, "The Impact of Transparency and Consent Requirements on Companies and Users", Interactive Marketing Research Conference (IMRC), London (virtual meeting), UK.
+
+2020-10-28: **Shunyao Yan**, Klaus Miller, Bernd Skiera, "How Does the Adoption of Ad Blockers Affect News Consumption?", Interactive Marketing Research Conference (IMRC), London (virtual meeting), UK.
+
+2020-07-02: **René Laub**, Klaus Miller, Bernd Skiera: "The Economic Value of Online User Data for Publishers", Vienna University of Economics and Business, Vienna, Austria.
+
+2020-07-02: **Bernd Skiera**, Klaus Miller: "Economic Consequences of Online Tracking Restrictions to Protect Consumer Privacy", 18th ZEW Conference on the Economics of Information and Communication Technologies (virtual meeting).
+
+2020-06-20: **Julia Schmitt**, Klaus Miller, Bernd Skiera, "The Impact of GDPR on the Transparency and Consent Control on Cookie Banners" at Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Madrid (virtual meeting), Spain.
+
+2020-06-19: **René Laub**, Klaus Miller, Bernd Skiera, "The Economic Value of User Data" at Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Madrid (virtual meeting), Spain
+
+2020-04-15: **Skiera, Bernd**: "Information on ERC Grant: ‚Economic Consequences of Restrictions on the Usage of Cookies'", Faculty Wide Presentation of ERC Research Grant Proposal at Goethe University Frankfurt
+
+2020-03-18: **Lennart Kraft**, Klaus Miller, Bernd Skiera, "Privacy and the Prevalence of Inconsistencies in Third-Party Consumer Profiling" at Yearly Conference of German Academic Association for Business Research ("Verband der Hochschullehrer für Betriebswirtschaft e.V. (VHB)")
+
+2020-03-17: **Bernd Skiera**, Opening Keynote "Wie teuer ist mehr Privatsphäre im Internet für die werbetreibende Industrie?" (In English: "How expensive is more privacy on the Internet for the advertising industry?"), at Yearly Conference of German Academic Association for Business Research ("Verband der Hochschullehrer für Betriebswirtschaft e.V. (VHB)")
+
+2020-03-02: **Bernd Skiera**, "Consequences of GDPR for Internet Traffic on European Websites", Colloquium on "Privacy and Technology", Deakin University, Burwood (Victoria), Australia
+
+2020-02-13: **Julia Schmitt**, "The Impact of Privacy Regulations on E-Commerce", Doctoral College "Privacy and Trust for Mobile Users" Lecture Series "Female Scientists for Female Students, Goethe University Frankfurt
+
+2020-01-29: **Klaus Miller** & Bernd Skiera, "Economic Consequences of Online Tracking Restrictions", research presentation at University of Tuebingen.

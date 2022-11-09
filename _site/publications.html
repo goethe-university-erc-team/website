@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.267">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title></title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./static/img/favicon-cookie.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./static/img/favicon-cookie.ico" alt="" class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./team.html">
+ <span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./publications.html" aria-current="page">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./presentations.html">
+ <span class="menu-text">Presentations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./outreach.html">
+ <span class="menu-text">Outreach</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./workshops.html">
+ <span class="menu-text">Workshops</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html">
+ <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#books" id="toc-books" class="nav-link active" data-scroll-target="#books">Books</a></li>
+  <li><a href="#articles-in-academic-journals" id="toc-articles-in-academic-journals" class="nav-link" data-scroll-target="#articles-in-academic-journals">Articles in Academic Journals</a></li>
+  <li><a href="#conference-proceedings" id="toc-conference-proceedings" class="nav-link" data-scroll-target="#conference-proceedings">Conference Proceedings</a></li>
+  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working Papers</a></li>
+  <li><a href="#dissertations" id="toc-dissertations" class="nav-link" data-scroll-target="#dissertations">Dissertations</a></li>
+  <li><a href="#master-theses" id="toc-master-theses" class="nav-link" data-scroll-target="#master-theses">Master Theses</a></li>
+  <li><a href="#bachelor-theses" id="toc-bachelor-theses" class="nav-link" data-scroll-target="#bachelor-theses">Bachelor Theses</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="books" class="level1">
+<h1>Books</h1>
+<p>Skiera, Bernd / Miller, Klaus / Jin, Yuxi / Kraft, Lennart / Laub, René / Schmitt, Julia (2022), <a href="https://leanpub.com/gdpr-impact%20and%20www.gdpr-impact.com"><em>“The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Industry”</em></a></p>
+</section>
+<section id="articles-in-academic-journals" class="level1">
+<h1>Articles in Academic Journals</h1>
+<p>Jin, Yuxi / Skiera, Bernd, <a href="https://doi.org/10.1177/23949643221117676">“How do Privacy Laws Impact the Value for Actors in the Online Advertising Market?—A comparison of the EU, US, and China”</a>, <em>Journal of Creating Value, forthcoming</em>.</p>
+</section>
+<section id="conference-proceedings" class="level1">
+<h1>Conference Proceedings</h1>
+<p>Kraft, Lennart / Miller, Klaus / Skiera, Bernd (2021), “Density, Pace, and Consistency in Third-Party Consumer Profiling”, <em>Proceedings of EMAC 2021 - The 50th Annual Conference of the European Marketing Academy</em>.</p>
+<p>Laub, René / Miller, Klaus / Skiera, Bernd (2021), “The Economic Value of Online User-Tracking”, <em>Proceedings of EMAC 2021 - The 50th Annual Conference of the European Marketing Academy</em>.</p>
+</section>
+<section id="working-papers" class="level1">
+<h1>Working Papers</h1>
+<p>Miller, Klaus / Skiera, Bernd (2022), <em>“Economic Consequences of Online Tracking Restrictions”</em>, Working Paper, under revision for second-round review at International Journal of Research in Marketing.</p>
+<p>Schmitt, Julia / Miller, Klaus / Skiera, Bernd, <em>“The Impact of Privacy Laws on Online User Behavior”</em>, Working Paper, under revision for third-round review at Journal of Marketing Research.</p>
+<p>Schmitt, Julia, <em>“Choose Wisely: The Impact of Consent Banner Designs on Consent Rates”</em>, Working Paper.</p>
+<p>Schmitt, Julia, <em>“The Illusion of Control: Control and Convenience on Consent Banners”</em>, Working Paper.</p>
+<p>Laub, René / Miller, Klaus / Skiera, Bernd, <em>“The Economic Value of User-Tracking for Publishers”</em>, Working Paper.</p>
+<p>Laub, René / Kraft, Lennart, <em>“Impact of Amount of Traffic and Number of Advertisers on Publisher Revenue in Real-Time-Bidding”</em>, Working Paper.</p>
+<p>Lukic, Karlo / Miller, Klaus / Skiera, Bernd, <em>“The Impact of the General Data Protection Regulation (GDPR) on Online Tracking”</em>, Working Paper.</p>
+<p>Kraft, Lennart / Miller, Klaus / Skiera, Bernd, <em>“Richness and Consistency of Consumer Profiles and Their Development over Time”</em>, Working Paper.</p>
+<p>Kraft, Lennart, <em>“Leveraging Differential Privacy for Targeted Advertisements”</em>, Working Paper.</p>
+<p>Kraft, Lennart, <em>“Tax Revenue, Privacy, and Profits under Taxed Targeted Advertisements”</em>, under revision for second-round review at International Journal of Research in Marketing.</p>
+<p>Kraft, Lennart / Skiera, Bernd, <em>“Economic Impact of Apple’s App Tracking Transparency (ATT)”</em>, Working Paper.</p>
+<p>Kraft, Lennart / Skiera, Bernd, <em>“Usage of Legal Bases under GDPR”</em>. Working Paper.</p>
+<p>Jin, Yuxi / Skiera, Bernd, <em>“How Does a Standard to Implement Privacy Regulations Affect Web Traffic and Tracking? Evidence from IAB’s Transparency and Consent”</em>, Working Paper.</p>
+</section>
+<section id="dissertations" class="level1">
+<h1>Dissertations</h1>
+<p>Kraft, Lennart, <em>“Price of Privacy”</em>, defended on July 18, 2022.</p>
+<p>Schmitt, Julia, <em>“The Impact of Privacy Laws on Websites and Users”</em>, defended on December 20, 2021.</p>
+</section>
+<section id="master-theses" class="level1">
+<h1>Master Theses</h1>
+<p>Klimmesch, Pascal (2022), <em>“A Bright Future After Third-Party Cookies? Evaluating New Solutions for Digital Advertising from an Economic and Privacy Perspective”</em>, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.</p>
+</section>
+<section id="bachelor-theses" class="level1">
+<h1>Bachelor Theses</h1>
+<p>Grimmer, Ann-Kathrin (2022) <em>“The Renaissance of Contextual Targeting”</em>, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.</p>
+<p>Botzke, Robin (2022) <em>“Die Kosten einer werbefreien digitalen Welt” (“The Cost of an Ad-Free Digital World”)</em>, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.</p>
+<p>Stadnik, Maximilian (2021) <em>“Vergleich länderspezifischer Interpretationen europäischer Datenschutzgesetze” (“Comparison of Country-Specific Interpretations of European Privacy Laws”)</em>, Supervised by Julia Schmitt, Bernd Skiera.</p>
+<p>Santoso, Jarod (2021) <em>“Eine Untersuchung der Nutzerreaktionen zu werbe- und trackingfreien Abonnements digitaler Zeitungen” (“Identifying User Reactions to Advertising- and Tracking-Free Digital Newspaper Subscriptions”)</em>, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.</p>
+<p>Rahimi, Mariam (2021) <em>“A Comparison of Existing Privacy Laws Worldwide”</em>, Supervised by Julia Schmitt, Bernd Skiera.</p>
+<p>Brand, Sophia (2021) <em>“The Role of Consumer Privacy for the Personalization of Marketing Instruments”</em>, Supervised by René Laub, Bernd Skiera.</p>
+<p>Linke, Roland (2021) <em>“Exploring the Privacy Paradox in the Smartphone App Market</em>”, Supervised by René Laub, Bernd Skiera.</p>
+<p>Röder, Daniel (2021), <em>“The Relevance of User-Tracking for the Provision of Free Online-News: An Empirical Analysis”</em>, Supervised by René Laub, Bernd Skiera.</p>
+<p>Rubrecht, Leon (2022), <em>“How Privacy-Intrusive are Smartphone Apps?”</em>, Supervised by René Laub, Bernd Skiera.</p>
+<p>Hilpert, Phillip (2021), <em>“Why Do Consumer Use Ad-blockers? No Ads or More Privacy?”</em>, Supervised by Yuxi Jin, Bernd Skiera.</p>
+<p>Gaydarzhy, Margaryta (2021), <em>“Do Cheaper Mobile Apps Require More Privacy Sensitive Permissions?”</em>, Supervised by Yuxi Jin, Bernd Skiera.</p>
+<p>Brueggemann, Merle (2021), <em>“Are Online Users in Europe tracked less than Online Users in the US?”</em>, Supervised by Yuxi Jin, Bernd Skiera.</p>
+<p>Herz, Katarina(2021), <em>“Do Larger Websites Offer More Privacy?”</em>, Supervised by Yuxi Jin, Bernd Skiera</p>
+<p>Bilge, Ebru (2020),<em>“Ein Überblick über die Veränderung der rechtlichen Situation in ausgewählten EU-Ländern nach Einführung der DSGVO” (“An Overview of the Change in the Legal Situation in Selected EU-Countries After the Enforcement of the GDPR”)</em>, Supervised by Julia Schmitt, Bernd Skiera.</p>
+<p>Karadoruk, Ali (2020),<em>“Die Verwendung von Cookies im Internet” (“The Usage of Cookies on the Internet”)</em>, Supervised by Julia Schmitt, Bernd Skiera.</p>
+<p>Hohmann, Annika (2019), <em>“Using the Privacy Calculus to Improve Data Collection”</em>, Supervised by Julia Schmitt, Bernd Skiera.</p>
+<p>Damci, Yeliz (2018), <em>“Das Privacy Paradox: Eine Analyse des Forschungsstandes und der Reduktionsmöglichkeiten” (“The Privacy Paradox: An Analysis of the State of Research and Reduction Possibilities”)</em>, Supervised by Julia Schmitt, Bernd Skiera.</p>
+<p>Mahdi, Elias Ahmedahir (2021), <em>“Can Trackers on European Banking Websites be Justified in a Post-GDPR World”</em>, Supervised by Karlo Lukic, Bernd Skiera.</p>
+<p>Wissel, Moritz (2021), <em>“Dark Patterns on German Websites in the Post-GDPR Period”</em>, Supervised by Karlo Lukic, Bernd Skiera.</p>
+<p>Woodhoo, Vishaant (2022), <em>“Are Chrome Browser Extensions Less Risky After Google Updates?”</em>, Supervised by Karlo Lukic, Bernd Skiera.</p>
+<p>Kaffee, Jonas (2022), <em>“Exploring the Market of Chrome Browser Extensions”</em>, Supervised by Karlo Lukic, Bernd Skiera.</p>
+<p>Walter, Marcel (2022), <em>“Tracking Your Food Delivery: Trackers in Food Delivery Apps”</em>, Supervised by Karlo Lukic, Bernd Skiera.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Copyright © 2022 | ERC Grant Agreement Number 833714</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://github.com/goethe-university-erc-team/website">Source Code</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/skiera/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

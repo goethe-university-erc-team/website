@@ -14,5 +14,5 @@ toc: false
 ## Goethe University Frankfurt, Germany {style="text-align:center"}
 
 ::: {style="text-align:left"}
-The [European Research Council](https://erc.europa.eu/homepage) (ERC) provided [Prof.Dr.Bernd Skiera](contact.qmd) at [Goethe University Frankfurt in Germany](https://www.goethe-university-frankfurt.de/en) with a substantial (ERC Advanced Investigator) research grant to examine the economic consequences of stronger restrictions on tracking technologies. Professor Skiera and his team pursued [several empirical projects](publications.qmd) to demonstrate these consequences.#
+The [European Research Council](https://erc.europa.eu/homepage) (ERC) provided [Prof.Dr.Bernd Skiera](contact.qmd) at [Goethe University Frankfurt in Germany](https://www.goethe-university-frankfurt.de/en) with a substantial (ERC Advanced Investigator) research grant to examine the economic consequences of stronger restrictions on tracking technologies. Professor Skiera and his team pursue [several empirical projects](publications.qmd) to demonstrate these consequences.
 :::

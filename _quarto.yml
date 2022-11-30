@@ -21,8 +21,8 @@ site:
       # - href: outreach.qmd
         # text: Outreach
       - workshops.qmd
-      - href: teaching.qmd
-        text: Teaching
+      # - href: teaching.qmd
+        # text: Teaching
       - href: contact.qmd
         text: Contact
   page-footer: 

@@ -11,6 +11,4 @@ The vision of the ERC Investigator Grant is to eliminate the gap in knowledge re
 
 ![](static/img/scheme-erc-advanced-investigator-grant.png)
 
-## Video on Cookies and Their Usage
-
-{{< youtube HFyaW50GFOs >}}
+## 

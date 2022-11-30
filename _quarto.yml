@@ -18,8 +18,8 @@ site:
       - href: publications.qmd
         text: Publications
       - presentations.qmd
-      - href: outreach.qmd
-        text: Outreach
+      # - href: outreach.qmd
+        # text: Outreach
       - workshops.qmd
       - href: teaching.qmd
         text: Teaching

@@ -6,16 +6,10 @@ title: "Prof. Dr. Bernd Skiera"
 
 ### Contact
 
-#### Office Hours
-
-Office hours on appointment. If you would like to come, please send me a short [email](mailto:skiera@wiwi.uni-frankfurt.de) a few days earlier.
-
-#### Office
-
 Room 1.221, RuW-building\
 Campus Westend\
 Theodor-W.-Adorno-Platz 4\
-D-60323 Frankfurt am Main
+60323 Frankfurt am Main, Germany
 
 #### Contact Information
 
@@ -35,42 +29,6 @@ Academia: <http://uni-frankfurt.academia.edu/BerndSkiera>
 
 ResearcherID: B-6978-2013
 
-[Curriculum Vitae](https://www.marketing.uni-frankfurt.de/fileadmin/user_upload/dateien_abteilungen/abt_marketing/Bilder/Professor_Skiera/CV_MA_E-Commerce/Vita_Skiera_english_2022_09_29_BS-Website.pdf)
+### More About Me
 
-### Research Interests
-
-Marketing Analytics
-
-Electronic Commerce
-
-Online Advertising
-
-Data Driven Marketing
-
-Machine Learning, Artificial Intelligence
-
-Customer Management
-
-Marketing Technologies ("MarTech")
-
-Sales Technologies ("SalesTech")
-
-Integration Platforms as a Service ("iPaas")
-
-Online Consumer Privacy
-
-### About Me
-
-In 1999, I took over the first chair of electronic commerce in Germany at Goethe University Frankfurt. In addition, I am a member of the managing board of the [*efl*-The Data Science Institute](https://www.eflab.de/ "Öffnet externen Link in neuem Fenster") and the [Schmalenbach Society](https://www.schmalenbach.org/ "Öffnet internen Link im aktuellen Fenster"). I represent Germany as a "National Representative" at the [European Marketing Community (EMAC)](https://www.emac-online.org/ "Öffnet internen Link im aktuellen Fenster").
-
-My research interests include MarTech and SalesTech, electronic commerce (especially Amazon Market Place), online marketing (in particular programmatic advertising, real-time bidding, and pricing), marketing analytics (including machine learning), the evaluation of the economic impact of more online consumer privacy (primarily via the acquired [ERC Advanced Grant](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/erc-advanced-grant.html "Öffnet internen Link im aktuellen Fenster") on „Economic Consequences of Restrictions on the Usage of Cookies") and value-based customer management (Customer Lifetime Values, Customer Equity, Customer-Based Corporate Valuation (CBCV)). 
-
-I am privileged to have the opportunity to operate in an excellent international network, enjoy publishing and pay great attention to the training of young scientists. 17 of the doctoral students for whom I was the first supervisor (6 women) are nowadays professors in Germany and abroad (e.g. London Business School, University of North Carolina, LMU Munich), 12 of them in tenured positions. 
-
-I am often very well placed in research rankings, such as [20th](https://www.marketing.uni-frankfurt.de/fileadmin/user_upload/dateien_abteilungen/abt_marketing/Bilder/Professor_Skiera/Author-Productivity-in-the-Premier-AMA-Journals-2011-2020.pdf "Öffnet internen Link im aktuellen Fenster") and [42nd](https://www.marketing.uni-frankfurt.de/fileadmin/user_upload/dateien_abteilungen/abt_marketing/Bilder/Professor_Skiera/Author-Productivity-in-the-Premier-Marketing-Journals-2011-2020.pdf "Öffnet internen Link im aktuellen Fenster") in the two global rankings of the American Marketing Association (AMA). In the most recent [Handelsblatt ranking (2014)](https://www.marketing.uni-frankfurt.de/fileadmin/user_upload/dateien_abteilungen/abt_marketing/Bilder/Professor_Skiera/CV_MA_E-Commerce/Handelsblatt_Ranking_15_12_2014-014-Digitalisierung_der_Betrie-1660711272-Artikel.pdf "Öffnet internen Link im aktuellen Fenster") of all German-speaking business administration professors (over 2000 persons), I was ranked first for my research performance over the past 5 years.
-
-My first professional activity was that of a software developer at SAP, where I first programmed in Assembler and then developed one of the first applications in ABAP. The time there has shaped me a lot and contributed significantly to the fact that I am particularly interested in the interface between information systems and marketing. I also founded Marini Systems ([www.marini-systems.de](https://marini.systems/en/ "Öffnet internen Link im aktuellen Fenster")) that offers Enterprise Data Integration solutions.
-
-I like to spend my free time with my wife and our three but now grown-up and independent children. My daughters share my passion for skiing and my son my passion for chess, which I pursued much more intensively when I was young. With my wife I like to explore the area by bike.
-
-### 
+[Link to my University website](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/prof-dr-bernd-skiera.html)

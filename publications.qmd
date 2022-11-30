@@ -16,34 +16,6 @@ Kraft, Lennart / Miller, Klaus / Skiera, Bernd (2021), "Density, Pace, and Consi
 
 Laub, René / Miller, Klaus / Skiera, Bernd (2021), "The Economic Value of Online User-Tracking", *Proceedings of EMAC 2021 - The 50th Annual Conference of the European Marketing Academy*.
 
-# Working Papers
-
-Miller, Klaus / Skiera, Bernd (2022), *"Economic Consequences of Online Tracking Restrictions"*, Working Paper, under revision for second-round review at International Journal of Research in Marketing.
-
-Schmitt, Julia / Miller, Klaus / Skiera, Bernd, *"The Impact of Privacy Laws on Online User Behavior"*, Working Paper, under revision for third-round review at Journal of Marketing Research.
-
-Schmitt, Julia, *"Choose Wisely: The Impact of Consent Banner Designs on Consent Rates"*, Working Paper.
-
-Schmitt, Julia, *"The Illusion of Control: Control and Convenience on Consent Banners"*, Working Paper.
-
-Laub, René / Miller, Klaus / Skiera, Bernd, *"The Economic Value of User-Tracking for Publishers"*, Working Paper.
-
-Laub, René / Kraft, Lennart, *"Impact of Amount of Traffic and Number of Advertisers on Publisher Revenue in Real-Time-Bidding"*, Working Paper.
-
-Lukic, Karlo / Miller, Klaus / Skiera, Bernd, *"The Impact of the General Data Protection Regulation (GDPR) on Online Tracking"*, Working Paper.
-
-Kraft, Lennart / Miller, Klaus / Skiera, Bernd, *"Richness and Consistency of Consumer Profiles and Their Development over Time"*, Working Paper.
-
-Kraft, Lennart, *"Leveraging Differential Privacy for Targeted Advertisements"*, Working Paper.
-
-Kraft, Lennart, *"Tax Revenue, Privacy, and Profits under Taxed Targeted Advertisements"*, under revision for second-round review at International Journal of Research in Marketing.
-
-Kraft, Lennart / Skiera, Bernd, *"Economic Impact of Apple's App Tracking Transparency (ATT)"*, Working Paper.
-
-Kraft, Lennart / Skiera, Bernd, *"Usage of Legal Bases under GDPR"*. Working Paper.
-
-Jin, Yuxi / Skiera, Bernd, *"How Does a Standard to Implement Privacy Regulations Affect Web Traffic and Tracking? Evidence from IAB's Transparency and Consent"*, Working Paper.
-
 # Dissertations
 
 Kraft, Lennart, *"Price of Privacy"*, defended on July 18, 2022.

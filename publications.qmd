@@ -14,7 +14,7 @@ Industry](https://www.gdpr-impact.com/)"*
 Jin, Yuxi / Skiera, Bernd, ["How do Privacy Laws Impact the Value for
 Actors in the Online Advertising Market?---A comparison of the EU, US,
 and China"](https://doi.org/10.1177/23949643221117676), *Journal of
-Creating Value, forthcoming*.
+Creating Value, 8(2), 306-327*.
 
 # Conference Proceedings
 
@@ -26,6 +26,13 @@ Academy*.
 Laub, René / Miller, Klaus / Skiera, Bernd (2021), "The Economic Value
 of Online User-Tracking", *Proceedings of EMAC 2021 - The 50th Annual
 Conference of the European Marketing Academy*.
+
+# Working Papers
+
+Schmitt, Julia / Miller, Klaus / Skiera, Bernd, ["The Impact of
+Privacy Laws on Online User
+Behavior"](https://ssrn.com/abstract=3774110) (October 1, 2021). *HEC
+Paris Research Paper No MKG-2021-1437*, Available at SSRN.
 
 # Dissertations
 

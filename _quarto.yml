@@ -21,6 +21,8 @@ site:
       # - href: outreach.qmd
         # text: Outreach
       - workshops.qmd
+      - href: https://www.gdpr-impact.com
+        text: Book
       # - href: teaching.qmd
         # text: Teaching
       - href: contact.qmd

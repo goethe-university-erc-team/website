@@ -4,70 +4,123 @@ title: ""
 
 # Books
 
-Skiera, Bernd / Miller, Klaus / Jin, Yuxi / Kraft, Lennart / Laub, René / Schmitt, Julia (2022), [*"The Impact of the General Data Protection Regulation (GDPR) on the Online Advertising Industry"*](https://leanpub.com/gdpr-impact%20and%20www.gdpr-impact.com)
+Skiera, Bernd / Miller, Klaus / Jin, Yuxi / Kraft, Lennart / Laub,
+René / Schmitt, Julia (2022), *"[The Impact of the General Data
+Protection Regulation (GDPR) on the Online Advertising
+Industry](https://www.gdpr-impact.com/)"*
 
 # Articles in Academic Journals
 
-Jin, Yuxi / Skiera, Bernd, ["How do Privacy Laws Impact the Value for Actors in the Online Advertising Market?---A comparison of the EU, US, and China"](https://doi.org/10.1177/23949643221117676), *Journal of Creating Value, forthcoming*.
+Jin, Yuxi / Skiera, Bernd, ["How do Privacy Laws Impact the Value for
+Actors in the Online Advertising Market?---A comparison of the EU, US,
+and China"](https://doi.org/10.1177/23949643221117676), *Journal of
+Creating Value, forthcoming*.
 
 # Conference Proceedings
 
-Kraft, Lennart / Miller, Klaus / Skiera, Bernd (2021), "Density, Pace, and Consistency in Third-Party Consumer Profiling", *Proceedings of EMAC 2021 - The 50th Annual Conference of the European Marketing Academy*.
+Kraft, Lennart / Miller, Klaus / Skiera, Bernd (2021), "Density, Pace,
+and Consistency in Third-Party Consumer Profiling", *Proceedings of
+EMAC 2021 - The 50th Annual Conference of the European Marketing
+Academy*.
 
-Laub, René / Miller, Klaus / Skiera, Bernd (2021), "The Economic Value of Online User-Tracking", *Proceedings of EMAC 2021 - The 50th Annual Conference of the European Marketing Academy*.
+Laub, René / Miller, Klaus / Skiera, Bernd (2021), "The Economic Value
+of Online User-Tracking", *Proceedings of EMAC 2021 - The 50th Annual
+Conference of the European Marketing Academy*.
 
 # Dissertations
 
 Kraft, Lennart, *"Price of Privacy"*, defended on July 18, 2022.
 
-Schmitt, Julia, *"The Impact of Privacy Laws on Websites and Users"*, defended on December 20, 2021.
+Schmitt, Julia, *"The Impact of Privacy Laws on Websites and Users"*,
+defended on December 20, 2021.
 
 # Master Theses
 
-Klimmesch, Pascal (2022), *"A Bright Future After Third-Party Cookies? Evaluating New Solutions for Digital Advertising from an Economic and Privacy Perspective"*, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.
+Klimmesch, Pascal (2022), *"A Bright Future After Third-Party Cookies?
+Evaluating New Solutions for Digital Advertising from an Economic and
+Privacy Perspective"*, Supervised by Timo Mueller-Tribbensee, Bernd
+Skiera.
 
 # Bachelor Theses
 
-Grimmer, Ann-Kathrin (2022) *"The Renaissance of Contextual Targeting"*, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.
+Grimmer, Ann-Kathrin (2022) *"The Renaissance of Contextual
+Targeting"*, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.
 
-Botzke, Robin (2022) *"Die Kosten einer werbefreien digitalen Welt" ("The Cost of an Ad-Free Digital World")*, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.
+Botzke, Robin (2022) *"Die Kosten einer werbefreien digitalen Welt"
+("The Cost of an Ad-Free Digital World")*, Supervised by Timo
+Mueller-Tribbensee, Bernd Skiera.
 
-Stadnik, Maximilian (2021) *"Vergleich länderspezifischer Interpretationen europäischer Datenschutzgesetze" ("Comparison of Country-Specific Interpretations of European Privacy Laws")*, Supervised by Julia Schmitt, Bernd Skiera.
+Stadnik, Maximilian (2021) *"Vergleich länderspezifischer
+Interpretationen europäischer Datenschutzgesetze" ("Comparison of
+Country-Specific Interpretations of European Privacy Laws")*,
+Supervised by Julia Schmitt, Bernd Skiera.
 
-Santoso, Jarod (2021) *"Eine Untersuchung der Nutzerreaktionen zu werbe- und trackingfreien Abonnements digitaler Zeitungen" ("Identifying User Reactions to Advertising- and Tracking-Free Digital Newspaper Subscriptions")*, Supervised by Timo Mueller-Tribbensee, Bernd Skiera.
+Santoso, Jarod (2021) *"Eine Untersuchung der Nutzerreaktionen zu
+werbe- und trackingfreien Abonnements digitaler Zeitungen"
+("Identifying User Reactions to Advertising- and Tracking-Free Digital
+Newspaper Subscriptions")*, Supervised by Timo Mueller-Tribbensee,
+Bernd Skiera.
 
-Rahimi, Mariam (2021) *"A Comparison of Existing Privacy Laws Worldwide"*, Supervised by Julia Schmitt, Bernd Skiera.
+Rahimi, Mariam (2021) *"A Comparison of Existing Privacy Laws
+Worldwide"*, Supervised by Julia Schmitt, Bernd Skiera.
 
-Brand, Sophia (2021) *"The Role of Consumer Privacy for the Personalization of Marketing Instruments"*, Supervised by René Laub, Bernd Skiera.
+Brand, Sophia (2021) *"The Role of Consumer Privacy for the
+Personalization of Marketing Instruments"*, Supervised by René Laub,
+Bernd Skiera.
 
-Linke, Roland (2021) *"Exploring the Privacy Paradox in the Smartphone App Market*", Supervised by René Laub, Bernd Skiera.
+Linke, Roland (2021) *"Exploring the Privacy Paradox in the Smartphone
+App Market*", Supervised by René Laub, Bernd Skiera.
 
-Röder, Daniel (2021), *"The Relevance of User-Tracking for the Provision of Free Online-News: An Empirical Analysis"*, Supervised by René Laub, Bernd Skiera.
+Röder, Daniel (2021), *"The Relevance of User-Tracking for the
+Provision of Free Online-News: An Empirical Analysis"*, Supervised by
+René Laub, Bernd Skiera.
 
-Rubrecht, Leon (2022), *"How Privacy-Intrusive are Smartphone Apps?"*, Supervised by René Laub, Bernd Skiera.
+Rubrecht, Leon (2022), *"How Privacy-Intrusive are Smartphone Apps?"*,
+Supervised by René Laub, Bernd Skiera.
 
-Hilpert, Phillip (2021), *"Why Do Consumer Use Ad-blockers? No Ads or More Privacy?"*, Supervised by Yuxi Jin, Bernd Skiera.
+Hilpert, Phillip (2021), *"Why Do Consumer Use Ad-blockers? No Ads or
+More Privacy?"*, Supervised by Yuxi Jin, Bernd Skiera.
 
-Gaydarzhy, Margaryta (2021), *"Do Cheaper Mobile Apps Require More Privacy Sensitive Permissions?"*, Supervised by Yuxi Jin, Bernd Skiera.
+Gaydarzhy, Margaryta (2021), *"Do Cheaper Mobile Apps Require More
+Privacy Sensitive Permissions?"*, Supervised by Yuxi Jin, Bernd
+Skiera.
 
-Brueggemann, Merle (2021), *"Are Online Users in Europe tracked less than Online Users in the US?"*, Supervised by Yuxi Jin, Bernd Skiera.
+Brueggemann, Merle (2021), *"Are Online Users in Europe tracked less
+than Online Users in the US?"*, Supervised by Yuxi Jin, Bernd Skiera.
 
-Herz, Katarina(2021), *"Do Larger Websites Offer More Privacy?"*, Supervised by Yuxi Jin, Bernd Skiera
+Herz, Katarina(2021), *"Do Larger Websites Offer More Privacy?"*,
+Supervised by Yuxi Jin, Bernd Skiera
 
-Bilge, Ebru (2020),*"Ein Überblick über die Veränderung der rechtlichen Situation in ausgewählten EU-Ländern nach Einführung der DSGVO" ("An Overview of the Change in the Legal Situation in Selected EU-Countries After the Enforcement of the GDPR")*, Supervised by Julia Schmitt, Bernd Skiera.
+Bilge, Ebru (2020),*"Ein Überblick über die Veränderung der
+rechtlichen Situation in ausgewählten EU-Ländern nach Einführung der
+DSGVO" ("An Overview of the Change in the Legal Situation in Selected
+EU-Countries After the Enforcement of the GDPR")*, Supervised by Julia
+Schmitt, Bernd Skiera.
 
-Karadoruk, Ali (2020),*"Die Verwendung von Cookies im Internet" ("The Usage of Cookies on the Internet")*, Supervised by Julia Schmitt, Bernd Skiera.
+Karadoruk, Ali (2020),*"Die Verwendung von Cookies im Internet" ("The
+Usage of Cookies on the Internet")*, Supervised by Julia Schmitt,
+Bernd Skiera.
 
-Hohmann, Annika (2019), *"Using the Privacy Calculus to Improve Data Collection"*, Supervised by Julia Schmitt, Bernd Skiera.
+Hohmann, Annika (2019), *"Using the Privacy Calculus to Improve Data
+Collection"*, Supervised by Julia Schmitt, Bernd Skiera.
 
-Damci, Yeliz (2018), *"Das Privacy Paradox: Eine Analyse des Forschungsstandes und der Reduktionsmöglichkeiten" ("The Privacy Paradox: An Analysis of the State of Research and Reduction Possibilities")*, Supervised by Julia Schmitt, Bernd Skiera.
+Damci, Yeliz (2018), *"Das Privacy Paradox: Eine Analyse des
+Forschungsstandes und der Reduktionsmöglichkeiten" ("The Privacy
+Paradox: An Analysis of the State of Research and Reduction
+Possibilities")*, Supervised by Julia Schmitt, Bernd Skiera.
 
-Mahdi, Elias Ahmedahir (2021), *"Can Trackers on European Banking Websites be Justified in a Post-GDPR World"*, Supervised by Karlo Lukic, Bernd Skiera.
+Mahdi, Elias Ahmedahir (2021), *"Can Trackers on European Banking
+Websites be Justified in a Post-GDPR World"*, Supervised by Karlo
+Lukic, Bernd Skiera.
 
-Wissel, Moritz (2021), *"Dark Patterns on German Websites in the Post-GDPR Period"*, Supervised by Karlo Lukic, Bernd Skiera.
+Wissel, Moritz (2021), *"Dark Patterns on German Websites in the
+Post-GDPR Period"*, Supervised by Karlo Lukic, Bernd Skiera.
 
-Woodhoo, Vishaant (2022), *"Are Chrome Browser Extensions Less Risky After Google Updates?"*, Supervised by Karlo Lukic, Bernd Skiera.
+Woodhoo, Vishaant (2022), *"Are Chrome Browser Extensions Less Risky
+After Google Updates?"*, Supervised by Karlo Lukic, Bernd Skiera.
 
-Kaffee, Jonas (2022), *"Exploring the Market of Chrome Browser Extensions"*, Supervised by Karlo Lukic, Bernd Skiera.
+Kaffee, Jonas (2022), *"Exploring the Market of Chrome Browser
+Extensions"*, Supervised by Karlo Lukic, Bernd Skiera.
 
-Walter, Marcel (2022), *"Tracking Your Food Delivery: Trackers in Food Delivery Apps"*, Supervised by Karlo Lukic, Bernd Skiera.
+Walter, Marcel (2022), *"Tracking Your Food Delivery: Trackers in Food
+Delivery Apps"*, Supervised by Karlo Lukic, Bernd Skiera.

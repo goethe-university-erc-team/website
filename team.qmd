@@ -6,13 +6,15 @@ title: "Current Team Members"
 
 ![](static/img/profile-bernd.jpg){width="100"}
 
-Principal Investigator, Professor of Electronic Commerce, [Read More...](https://www.marketing.uni-frankfurt.de/de/professoren/skiera/prof-dr-bernd-skiera.html)
+Principal Investigator, Professor of Electronic Commerce, [Read
+More...](https://www.marketing.uni-frankfurt.de/de/professoren/skiera/prof-dr-bernd-skiera.html)
 
 ### Klaus Miller
 
 ![](static/img/profile-klaus.jpg){width="100"}
 
-Assistant Professor of Quantitative Marketing, [Read More...](https://sites.google.com/view/klausmiller/)
+Assistant Professor of Quantitative Marketing, [Read
+More...](https://sites.google.com/view/klausmiller/)
 
 ### Lennart Kraft
 
@@ -24,7 +26,8 @@ Post-Doctoral Researcher, [Read More...](https://lennartkraft.com)
 
 ![](static/img/profile-yuxi.jpg){width="109"}
 
-Doctoral Student, [Read More...](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/yuxi-jin.html)
+Doctoral Student, [Read
+More...](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/yuxi-jin.html)
 
 ### René Laub
 
@@ -36,25 +39,29 @@ Doctoral Student, [Read More...](linkedin.com/in/rene-laub-21b5a7103)
 
 ![](static/img/profile-karlo.jpg){width="99"}
 
-Doctoral Student, [Read More...](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/karlo-lukic.html)
+Doctoral Student, [Read
+More...](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/team/doctoral-students/karlo-lukic.html)
 
 ### Timo Müller-Tribbensee
 
 ![](static/img/profile-timo.jpg){width="100"}
 
-Doctoral Student, [Read More...](https://www.marketing.uni-frankfurt.de/de/professoren/skiera/team/wissenschaftliche-mitarbeiter/timo-mueller-tribbensee.html)
+Doctoral Student, [Read
+More...](https://www.marketing.uni-frankfurt.de/de/professoren/skiera/team/wissenschaftliche-mitarbeiter/timo-mueller-tribbensee.html)
 
 ### Christine Eckert
 
 ![](static/img/profile-christine.jpg){width="100"}
 
-Visiting Professor, [Read More...](https://profiles.uts.edu.au/christine.eckert)
+Visiting Professor, [Read
+More...](https://profiles.uts.edu.au/christine.eckert)
 
 ### Ulrich Laitenberger
 
 ![](static/img/profile-ulrich.jpg){width="100"}
 
-Visiting Professor, [Read More...](https://www.ulrich-laitenberger.com)
+Visiting Professor, [Read
+More...](https://www.ulrich-laitenberger.com)
 
 ## Previous Team Members
 
@@ -62,4 +69,5 @@ Visiting Professor, [Read More...](https://www.ulrich-laitenberger.com)
 
 ![](static/img/profile-julia.jpg){width="100"}
 
-Associate at McKinsey & Company, [Read More...](https://www.linkedin.com/in/dr-julia-schmitt-878853108/)
+Associate at McKinsey & Company, [Read
+More...](https://www.linkedin.com/in/dr-julia-schmitt-878853108/)

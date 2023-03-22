@@ -4,6 +4,14 @@ title: ""
 
 # Outreach to Policy Circles
 
+2023-02-06: Involvement of Lennart Kraft in Publishing \"Handout of
+the German Data Forum Working Group Research Data Ethics\", DOI:
+[10.17620/02671.6](https://doi.org/10.17620/02671.6).
+
+2023-01-27: Participation of Bernd Skiera, Lennart Kraft, Timo
+Müller-Tribbensee, Yuxi Jin and Karlo Lukic at the DPSN International
+Data Protection Day Event, Online.
+
 2022-06-14: Bernd Skiera: Participation at the virtual event on
 "Whither the Regulation of Online Advertising? Debating Policy Options
 and Their Impact on Businesses in Europe" of Mercator Science-Policy
@@ -81,6 +89,17 @@ Forschungsdateninfrastrukturen (FDI) as part of Rat für Sozial- und
 Wirtschaftsdaten (RatSWD)
 
 # Outreach to Industry
+
+2023-02-27: Participation of Bernd Skiera at the Marketing Analytics
+Symposium Sydney 2023, Sydney, Australia.
+
+2023-02-22: Meeting of Bernd Skiera and Lennart Kraft with Twan de
+Haan and Senta Gerwig (Ster) to examine whether to start a research
+project to examine the viability to replace non-contextual targeting
+with contextual targeting for publishers.
+
+2023-03-02: Participation of Bernd Skiera at the Marketing Technology
+(MarTech) Workshop, Deakin University, Australia.
 
 2022-09-28: Lennart Kraft & Timo Müller-Tribbensee: Attendance of
 DDV-Kongress

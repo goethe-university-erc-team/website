@@ -9,6 +9,36 @@ toc: false
 The name of the presenting author is bolded.
 :::
 
+2023-05-24: **Yuxi Jin**, Bernd Skiera, \"How Does Standardized
+Consent for Personal Data Processing Affect Online Tracking\",
+European Marketing Academy (EMAC) Conference 2023, Odense, Denmark.
+
+2023-03-02: **Bernd Skiera**, Lennart Kraft, Tim Koschella, \"Economic
+Impact of Opt-in versus Opt-out Requirements for Personal Data Usage:
+The Case of Apple\'s App Tracking Transparency (ATT)\", Marketing
+Technology (MarTech) Workshop, Deakin University, Australia.
+
+2023-02-27: **Bernd Skiera**, Lennart Kraft, Tim Koschella, \"Economic
+Impact of Apple\'s App Tracking Transparency (ATT)\", The Marketing
+Analytics Symposium Sydney 2023, Sydney, Australia.
+
+2023-02-11: **Bernd Skiera**, Lennart Kraft, Tim Koschella, \"Economic
+Impact of Apple\'s App Tracking Transparency (ATT)\", International
+Conference on Reimagining Marketing with Technology - 2023 IIM Jammu,
+India, Hybrid Conference.
+
+2023-01-27: **Lennart Kraft**, Bernd Skiera, Tim Koschella, \"Economic
+Impact of Apple\'s App Tracking Transparency (ATT)\", DPSN
+International Data Protection Day Event, Online.
+
+2023-01-27: **Yuxi Jin**, Bernd Skiera, \"How Does Standardized
+Consent for Personal Data Processing Affect Online Tracking\", DPSN
+International Data Protection Day Event, Online.
+
+2023-01-27: **Karlo Lukic**, Klaus Miller, Bernd Skiera, \"The Impact
+of the General Data Protection Regulation (GDPR) on Online Tracking\",
+DPSN International Data Protection Day Event, Online.
+
 2022-09-28: **Bernd Skiera**, "Ökonomische Auswirkungen von höheren
 Privacy-Anforderungen auf werbetreibende Unternehmen",
 Wissenschaftlicher Kongress des Deutscher Dialogmarketing Verbands

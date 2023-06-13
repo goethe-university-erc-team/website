@@ -13,10 +13,10 @@ The name of the presenting author is bolded.
 (2023), \"Economic Consequences of Consent Requirements for Online
 Tracking: Apple\'s App Tracking Transparency (ATT)\", ZEW Conference.
 
-2023-06-26: **Kraft, Lennart** / Skiera, Bernd (presenter) /
-Koschella, Tim (2023), \"Economic Consequences of Consent Requirements
-for Online Tracking: Apple\'s App Tracking Transparency (ATT)\",
-INFORMS Marketing Science Conference, Miami (USA).
+2023-06-26: Kraft, Lennart / **Skiera, Bernd** / Koschella, Tim
+(2023), \"Economic Consequences of Consent Requirements for Online
+Tracking: Apple\'s App Tracking Transparency (ATT)\", INFORMS
+Marketing Science Conference, Miami (USA).
 
 2023-05-31: **Yuxi Jin**, Maximilian Matthe, Bernd Skiera, \"Mapping
 Third-party Tracking in the Web\", 13th Annual Theory + Practice in

@@ -8,16 +8,16 @@ toc: false
 2023-05: EMAC: Privacy Sessions
 
 2023-03-19: Participation as Evaluator for Habilitation of Julien
-Cloarec (Université Toulouse Capitole, France) on \"Privacy in the Age
+Cloarec (Université Toulouse Capitole, France) on "Privacy in the Age
 of Artificial Intelligence: Insights from a Multi-Stream Research
-Program\"
+Program"
 
 2022-11-14: Online Presentation of Vincent Lefrere (Institut
-Mines-Télécom, Business School, LITEM) on \"Usage of OpenWPM\"
+Mines-Télécom, Business School, LITEM) on "Usage of OpenWPM"
 
 2022-10-25: Presentation of Vincent Lefrere (Institut Mines-Télécom,
-Business School, LITEM) on \"Privacy, Data and Competition: The Case
-of Apps For Young Children\", Goethe University Frankfurt
+Business School, LITEM) on "Privacy, Data and Competition: The Case of
+Apps For Young Children", Goethe University Frankfurt
 
 2022-09-23: Visit of Professor Nico Neumann from Melbourne Business
 School (Australia), Presentation: "Friend or Foe? Social Media

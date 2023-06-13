@@ -4,8 +4,8 @@ title: ""
 
 # Outreach to Policy Circles
 
-2023-02-06: Involvement of Lennart Kraft in Publishing \"Handout of
-the German Data Forum Working Group Research Data Ethics\", DOI:
+2023-02-06: Involvement of Lennart Kraft in Publishing "Handout of the
+German Data Forum Working Group Research Data Ethics", DOI:
 [10.17620/02671.6](https://doi.org/10.17620/02671.6).
 
 2023-01-27: Participation of Bernd Skiera, Lennart Kraft, Timo

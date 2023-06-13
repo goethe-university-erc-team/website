@@ -18,23 +18,23 @@ Creating Value, 8(2), 306-327*.
 
 # Conference Proceedings
 
-Kraft, Lennart / Skiera, Bernd / Koschella, Tim (2023), "Economic
-Impact of Apple's App Tracking Transparency Framework (ATT)",
-Proceedings of EMAC 2023 - The 52th Annual Conference of the European
-Marketing Academy, Odense (Denmark).
+Kraft, Lennart / Skiera, Bernd / Koschella, Tim (2023), \"Economic
+Consequences of Consent Requirements for Online Tracking: Apple\'s App
+Tracking Transparency (ATT)\", Proceedings of EMAC 2023 - The 52th
+Annual Conference of the European Marketing Academy, Odense (Denmark).
 
-Kraft, Lennart / Lukic, Karlo / Skiera, Bernd (2023), "Impact of Data
-Collection Practices on Mobile Advertising Revenue", Proceedings of
+Krafft, Lennart / Skiera, Bernd / Koschella, Tim (2023), \"Can
+Platforms Trust the Privacy Statement of Their Actors?\", Proceedings
+of EMAC 2023 - The 52th Annual Conference of the European Marketing
+Academy, Odense (Denmark).
+
+Yuxi, Jin / Skiera, Bernd (2023), \"How Does Standardized Consent for
+Personal Data Processing Affect Online Tracking?\", Proceedings of
 EMAC 2023 - The 52th Annual Conference of the European Marketing
 Academy, Odense (Denmark).
 
-Yuxi, Jin / Skiera, Bernd (2023), "How Does Standardized Consent for
-Personal Data Processing Affect Online Tracking?", Proceedings of EMAC
-2023 - The 52th Annual Conference of the European Marketing Academy,
-Odense (Denmark).
-
-Kraft, Lennart / Skiera, Bernd / Koschella, Tim (2022), "When the
-Cookie Crumbles? The Economic Value of User Tracking for Publishers",
+Kraft, Lennart / Skiera, Bernd / Koschella, Tim (2022), \"When the
+Cookie Crumbles? The Economic Value of User Tracking for Publishers\",
 Proceedings of EMAC 2022 - The 51th Annual Conference of the European
 Marketing Academy, Budapest (Hungary).
 

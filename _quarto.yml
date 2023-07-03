@@ -23,6 +23,8 @@ site:
       - workshops.qmd
       - href: https://www.gdpr-impact.com
         text: Book
+      - href: https://gdpr-impact.streamlit.app/
+        text: Book Web App
       # - href: teaching.qmd
         # text: Teaching
       - href: contact.qmd

@@ -34,7 +34,7 @@ site:
   page-footer: 
     border: true
     background: light
-    left: "Copyright © 2022 | ERC Grant Agreement Number 833714" 
+    left: "Copyright © 2023 | ERC Grant Agreement Number 833714" 
     center: 
     right: 
       - icon: github

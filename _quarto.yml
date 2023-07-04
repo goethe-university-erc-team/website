@@ -24,7 +24,9 @@ site:
       - href: https://www.gdpr-impact.com
         text: Book
       - href: https://gdpr-impact.streamlit.app/
-        text: Book Web App
+        text: Book Companion
+      - href: https://www.youtube.com/@goetheuprivacy3992
+        text: YouTube Chanel
       # - href: teaching.qmd
         # text: Teaching
       - href: contact.qmd
